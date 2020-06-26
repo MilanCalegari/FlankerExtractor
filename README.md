@@ -8,4 +8,4 @@ Biopython
 Pandas
 
 ## Usage
->flanker_extractor.py -t [NCRF output] -f [fasta file] -n [num of reads to cut for each side]
+>flanker_extractor.py -t [NCRF output] -f [fasta file] -n [num of bps to cut for each side]
